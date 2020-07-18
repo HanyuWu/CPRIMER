@@ -1,7 +1,7 @@
 # My own C++ Study Manual
 
 <p align="center">
-<font size="+1">Quick Reference</font>
+<font size="+2">Quick Reference</font>
 </p>
 
 1. [Udacity C++ Program](https://classroom.udacity.com/nanodegrees/nd213/dashboard/overview)
